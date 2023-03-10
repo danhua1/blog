@@ -1,9 +1,13 @@
 ---
 title: redux
+date: 2021-01-05 00:00:00
+tags: 
+  - react
+  - redux
+categories: 
+  - react
+  - redux
 ---
-
-## redux
-
 
 ## redux使用规则
 1. 使用configureStore创建 Redux store

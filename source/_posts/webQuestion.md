@@ -1,5 +1,12 @@
 ---
-title: 前端常见问题和技术解决方案
+title: 跨域
+date: 2022-11-05 15:00:00
+tags: 
+  - js
+  - 请求
+categories: 
+  - 日常开发
+  - 跨域
 ---
 
 # 一跨域
@@ -22,7 +29,7 @@ title: 前端常见问题和技术解决方案
 
 我们经常遇到的问题便是请求的发送，经常会在在控制台看到下面的报错
 
-![这是图片](https://image-static.segmentfault.com/361/944/3619440048-5ac4cd7cec1a9_fix732)
+![](https://image-static.segmentfault.com/361/944/3619440048-5ac4cd7cec1a9_fix732)
 
 看到那个Access-Control-Allow-Origin报错，看到这个报错的话，就是由于跨域造成的。
 

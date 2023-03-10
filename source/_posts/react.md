@@ -1,5 +1,11 @@
 ---
 title: react 学习
+tags: 
+  - react
+  - 文档
+categories: 
+  - react
+  - react文档
 ---
 
 ## 核心概念
